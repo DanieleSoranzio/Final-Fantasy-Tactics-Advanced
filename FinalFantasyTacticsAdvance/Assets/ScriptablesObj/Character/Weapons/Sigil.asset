@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db17d4b337667b44ebc01773678ef296, type: 3}
+  m_Name: Sigil
+  m_EditorClassIdentifier: 
+  iconWeapon: {fileID: 21300000, guid: bafcd80864c243144af54141945f5ea5, type: 3}
+  weaponName: Sigil
+  weaponAtk: 10
+  weaponDef: 12
+  weaponAccuracy: 60
+  attackList:
+  - {fileID: 11400000, guid: 23d325f50c40d8045bb1c304e8e6e11c, type: 2}
+  - {fileID: 11400000, guid: 1a81d20468e8e9847812c6da7e9628e5, type: 2}
+  - {fileID: 11400000, guid: 67cf70d0c094a04498be643fb42932d1, type: 2}
+  - {fileID: 11400000, guid: dd568a79e4a9c5d4f952b972a76d5dc4, type: 2}
